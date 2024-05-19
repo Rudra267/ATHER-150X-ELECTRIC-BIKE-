@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>GSAP - Scroll</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="container" id="container">
+
+  <div class="wrapper" id="wrapper">
+
+    <div class="header">
+      <!-- <svg version="1.1" viewBox="0 0 24 24">
+        <line x1="12" y1="20" x2="12" y2="10"></line>
+        <line x1="18" y1="20" x2="18" y2="4"></line>
+        <line x1="6" y1="20" x2="6" y2="16"></line>
+      </svg> -->
+      <div>
+        <!-- <svg version="1.1" viewBox="0 0 24 24">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <svg version="1.1" viewBox="0 0 24 24">
+          <rect x="3" y="3" width="7" height="7"></rect>
+          <rect x="14" y="3" width="7" height="7"></rect>
+          <rect x="14" y="14" width="7" height="7"></rect>
+          <rect x="3" y="14" width="7" height="7"></rect>
+        </svg> -->
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="intro" id="intro">
+        <img id="logo" src="./assets/logo.png" alt="piaggio logo svg">
+        <h1 id="intro-h1">Ready to Cruise</h1>
+        <h3 id="intro-h3">Relax and enjoy the ride</h3>
+      </div>
+      <img id="liberty" src="./assets/ola.png" alt="liberty 150 png">
+      <h1 id="panel-h1">Ather 450X</h1>
+      <ul class="models">
+        <li>Ather 450S</li>
+        <li>Ather 450X</li>
+        <li>Ather 450 Apex</li>
+      </ul>
+      <div class="rotator">
+        <p>0&deg;</p>
+        <svg version="1.1" viewBox="0 0 10 30">
+          <path d="M5 5.663V40" fill="none" stroke="#999" stroke-width=".92" transform="matrix(1 0 0 1.16492 0 -6.597)" />
+          <circle cx="7.423" cy="7.159" r="2.577" fill="#fff" transform="translate(-2.423 -4.582)" />
+        </svg>
+        <p>360&deg;</p>
+      </div>
+      <div class="specs">
+        <h2>Engine</h2>
+        <dl>
+          <dt>Power (continuous / peak)</dt>
+          <dd>3.3 kW / 6 kW</dd>
+
+          <dt>Max torque</dt>
+          <dd>26 Nm</dd>
+
+          <dt>Acceleration (0-40 km/h)</dt>
+          <dd>3.3 s</dd>
+
+          <dt>Riding modes</dt>
+          <dd>Warp | Sport | Ride | Eco</dd>
+
+          <dt>Ingress protection (motor)</dt>
+          <dd>IP66</dd>
+
+          <dt>Ingress protection (controller)</dt>
+          <dd>IP65</dd>
+
+          <dt> TrueRange™ (Ride)</dt>
+          <dd> 70 km</dd>
+        </dl>
+        <dl>
+          <dt>Fast charging rate (0-50% SOC)</dt>
+          <dd>1.5 km/min</dd>
+
+          <dt>TrueRange™ (Eco)</dt>
+          <dd> 85 km</dd>
+
+          <dt> Range (Indian Drive Cycle)</dt>
+          <dd>116 km</dd>
+
+          <dt>Front suspension</dt>
+          <dd>Telescopic forks</dd>
+
+          <dt> Rear suspension</dt>
+          <dd>mono-schock</dd>
+
+          <dt>Transmission</dt>
+          <dd>Automatic CVT</dd>
+
+          <!-- <dt>Starter</dt>
+          <dd>Electric</dd> -->
+        </dl>
+      </div>
+      <div class="chars">
+        <h2>Characteristics</h2>
+        <dl>
+          <dt>Braking system</dt>
+          <dd> Combined braking system </dd>
+
+          <dt>Brake type (front)</dt>
+          <dd>Hydraulically actuated triple-piston</dd>
+
+          <dt>Disc size (front)</dt>
+          <dd> 200 mm</dd>
+
+          <dt>Disc size (rear)</dt>
+          <dd>190 mm</dd>
+
+          <dt>Headlights</dt>
+          <dd>LED</dd>
+
+          <dt>Taillights</dt>
+          <dd>LED</dd>
+
+          <dt>Parking assist</dt>
+          <dd> Reverse Assist</dd>
+        </dl>
+        <dl>
+          <dt>Indicators</dt>
+          <dd>LED with auto turn-o feature</dd>
+
+          <dt> Wheel type</dt>
+          <dd> Alloy wheels</dd>
+
+          <dt>Wheel size (front)</dt>
+          <dd>30.48 cm x 5.46 cm (12” x 2.15”)</dd>
+
+          <dt>Wheel size (rear)</dt>
+          <dd>30.48 cm x 6.35 cm (12” x 2.5”)</dd>
+
+          <dt> Tyre size (front/rear)</dt>
+          <dd>90/90-12 tubeless</dd>
+        </dl>
+      </div>
+      <div class="outro">
+        <h2>Ather 450X</h2>
+        <p>Starting at ₹ 1,15,599</p>
+        <button>Learn More</button>
+      </div>
+    </div>
+    <div class="bkg"></div>
+  </div>
+  
+  <svg version="1.1" id="mask">
+    <defs>
+      <clipPath id="wrapMask">
+        <rect id="wrapWin" width="1000" height="800" fill="black" />
+      </clipPath>
+    </defs>
+  </svg>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.4/gsap.min.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/ScrollTrigger.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
