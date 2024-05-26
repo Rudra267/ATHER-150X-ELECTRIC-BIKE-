@@ -1,10 +1,5 @@
-<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/2e1b4596-47a3-41e4-9a75-b661a460f0dc![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/3e85dcfa-bc7b-4016-8d47-d93533148cc9)
-" alt=""/>
-<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/b6bb6644-8fcf-4a52-83b6-4e58e55ba9f3![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/50ffcb00-c94e-4a7d-aab6-162331b2795e)
-" alt=""/>
-<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/bbb20dbf-99cd-4e38-b89f-57cb7d1fb6e2![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/93bc8b0b-d1a3-4b0e-bf73-43a499a18381)
-" alt=""/>
-<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/ce881313-a397-40da-814a-652e41819440![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/517738ed-e1bd-4615-8de8-5e70def93ee6)
-" alt=""/>
-<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/f1bfd623-19dc-446e-b40a-8ecc902bfae9![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/ae30ca86-9723-42f8-9b64-a6fee7c8571c)
-" alt=""/>
+<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/2e1b4596-47a3-41e4-9a75-b661a460f0dc![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/3e85dcfa-bc7b-4016-8d47-d93533148cc9)" alt=""/>
+<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/b6bb6644-8fcf-4a52-83b6-4e58e55ba9f3![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/50ffcb00-c94e-4a7d-aab6-162331b2795e)" alt=""/>
+<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/bbb20dbf-99cd-4e38-b89f-57cb7d1fb6e2![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/93bc8b0b-d1a3-4b0e-bf73-43a499a18381)" alt=""/>
+<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/ce881313-a397-40da-814a-652e41819440![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/517738ed-e1bd-4615-8de8-5e70def93ee6)" alt=""/>
+<img src="https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/f1bfd623-19dc-446e-b40a-8ecc902bfae9![image](https://github.com/Rudra267/ATHER-150X-ELECTRIC-BIKE-/assets/122002449/ae30ca86-9723-42f8-9b64-a6fee7c8571c)" alt=""/>
